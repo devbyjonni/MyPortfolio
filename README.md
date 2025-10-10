@@ -1,7 +1,9 @@
 # My Portfolio
 
-A modern, responsive developer portfolio showcasing projects.
+A modern, responsive developer portfolio showcasing projects.  
 Built with HTML, CSS, and Bootstrap 5, featuring system dark mode support, smooth hover effects, and a clean typography system inspired by modern design frameworks.
+
+**Live Demo:** [https://devbyjonni.github.io/MyPortfolio/](https://devbyjonni.github.io/MyPortfolio/)
 
 ## Features
 
